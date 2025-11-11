@@ -1,0 +1,12 @@
+Flask
+flask-cors
+openai
+fpdf
+PyPDF2
+python-docx
+python-dotenv
+langchain
+langchain-openai
+faiss-cpu
+tiktoken
+Werkzeug
